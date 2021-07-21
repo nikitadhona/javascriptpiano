@@ -1,2 +1,2 @@
-# javascriptpiano
+# Piano
 Beginner JavaScript
